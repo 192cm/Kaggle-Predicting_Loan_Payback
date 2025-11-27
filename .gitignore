@@ -1,4 +1,6 @@
 # Environments
-.venv/
 venv/
 env/
+
+# data files
+playground-series-s5e11/
